@@ -1,0 +1,9 @@
+C:\Users\Ege\source\repos\WinReflection\WinReflection\bin\Debug\WinReflection.exe.config
+C:\Users\Ege\source\repos\WinReflection\WinReflection\bin\Debug\WinReflection.exe
+C:\Users\Ege\source\repos\WinReflection\WinReflection\bin\Debug\WinReflection.pdb
+C:\Users\Ege\source\repos\WinReflection\WinReflection\obj\Debug\WinReflection.csprojAssemblyReference.cache
+C:\Users\Ege\source\repos\WinReflection\WinReflection\obj\Debug\WinReflection.Form1.resources
+C:\Users\Ege\source\repos\WinReflection\WinReflection\obj\Debug\WinReflection.Properties.Resources.resources
+C:\Users\Ege\source\repos\WinReflection\WinReflection\obj\Debug\WinReflection.csproj.GenerateResource.cache
+C:\Users\Ege\source\repos\WinReflection\WinReflection\obj\Debug\WinReflection.exe
+C:\Users\Ege\source\repos\WinReflection\WinReflection\obj\Debug\WinReflection.pdb
